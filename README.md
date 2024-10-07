@@ -1,2 +1,0 @@
-# swap
-Swap-dinar
